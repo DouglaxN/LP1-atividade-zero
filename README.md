@@ -1,9 +1,9 @@
 # Linguagem de Programação 1 – Exercícios em C
 
-**Aluno:** [Seu Nome]  
+**Aluno:** Douglas Nunes da Silva
 **Disciplina:** Linguagem de Programação 1  
-**Professor:** [Nome do Professor]  
-**Período:** [Ano/Semestre]  
+**Professor:** Issac Franco Fernandes
+**Período:** 2025.2 
 
 ---
 
